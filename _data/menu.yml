@@ -1,0 +1,16 @@
+- label: Example Menu
+  items:
+    - name: Home
+      link: /
+    - name: Documentation
+      link: #
+      items:
+        - name: Articles
+          link: /documentation/articles.html
+        - name: Slides
+          link: /documentation/slides.html
+        - name: Tutorials
+          link: /documentation/tutorials.html
+        - name: Tools
+          link: /documentation/tools.html
+
