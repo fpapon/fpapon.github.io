@@ -3,3 +3,11 @@
 
 // Import Main CSS file from theme
 @import "main";
+
+.image img {
+  margin: auto;
+}
+
+.image.is-4by3 img {
+  height: inherit;
+}

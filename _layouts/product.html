@@ -13,15 +13,15 @@ layout: default
     <div class="column is-6">
         <p class="title is-3">{{ page.title }}</p>
         <p class="subtitle is-3">{{ page.subtitle }}</p>
-        <p class="title is-4 has-text-right">{{ page.price }}</p>
+        <p class="title is-4 has-text-right">{{ page.license }}</p>
         {% if page.product_code %}
         <p class="subtitle is-5 has-text-right">{{ page.product_code }}</p>
         {% endif %}
-        
+
         {% if page.rating %}
             {% include rating.html rating=page.rating %}
         {% endif %}
-        
+
         {% if page.features %}
         <div class="content">
             {% for feature in page.features %}
@@ -32,7 +32,7 @@ layout: default
                     {% else %}
                     <i class="fas fa-circle fa-xs"></i>
                     {% endif %}
-                </span> 
+                </span>
                 <span>{{ feature.label }}</span></p>
             {% endfor %}
         </div>
@@ -42,8 +42,8 @@ layout: default
     <div class="column is-12">
         <p class="title is-4">Description</p>
         <div class="content">
-            
-    
+
+
             {{ content }}
         </div>
     </div>
