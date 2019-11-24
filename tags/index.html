@@ -1,16 +1,19 @@
 ---
 layout: default
+title: Tags
+subtitle: Experimentation over code
+show_sidebar: false
 ---
 
 {{ content }}
 
 <div class="columns is-multiline">
-    {% for post in paginator.posts %}
+    {% for post in paginator.tags %}
     <div class="column is-12">
         {% include post-card.html %}
     </div>
     {% endfor %}
     <div class="column is-12">
-            {% include pagination.html %}
+        {% include pagination.html %}
     </div>
 </div>
