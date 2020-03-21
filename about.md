@@ -15,6 +15,6 @@ And I see **Apache Karaf™**…Wow! Everything I had imagined already existed! 
 
 I would like to share with you my experience and what I continue to learn every days…
 
-I would like to thanks [Jean-Baptiste Onofré](http://blog.nanthrax.net) (**ASF™** Member, PMC Chair of **Apache Karaf™**, and bunch of other **Apache™** projects!), he is my mentor at **ASF™** and most important, a very closed friend.
+I would like to thanks [Jean-Baptiste Onofré](http://blog.nanthrax.net) (**ASF™** Member, PMC Chair of **Apache Karaf™**, and bunch of other **Apache™** projects!), he is my mentor at **ASF™** and most important, a very close friend.
 
 Have fun!
