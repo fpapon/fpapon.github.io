@@ -337,8 +337,8 @@ sh ./target/assembly/activemq/apache-activemq-5.15.11/bin/activemq console
 ....
  Loading message broker from: xbean:activemq.xml
   INFO | Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@4dbb42b7: startup date [Thu May 07 05:01:55 CEST 2020]; root of context hierarchy
-  INFO | Using Persistence Adapter: KahaDBPersistenceAdapter[/home/fpa/planets/tatooine/blog/blog-tutorial/activemq-docker/target/activemq/apache-activemq-5.15.11/data/kahadb]
-  INFO | PListStore:[/home/fpa/planets/tatooine/blog/blog-tutorial/activemq-docker/target/activemq/apache-activemq-5.15.11/data/localhost/tmp_storage] started
+  INFO | Using Persistence Adapter: KahaDBPersistenceAdapter[/home/blog-tutorial/activemq-docker/target/activemq/apache-activemq-5.15.11/data/kahadb]
+  INFO | PListStore:[/home/blog-tutorial/activemq-docker/target/activemq/apache-activemq-5.15.11/data/localhost/tmp_storage] started
   INFO | Apache ActiveMQ 5.15.11 (localhost, ID:laptop-37883-1588820516667-0:1) is starting
   INFO | Listening for connections at: tcp://laptop:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600
   INFO | Connector openwire started
