@@ -410,7 +410,7 @@ sh ./target/assembly/activemq/apache-activemq-5.15.11/bin/activemq console
 </plugin>
 ```
 
-We are using the **openjdk11 alpine jre**.
+We are using the **openjdk8 alpine jre**.
 
 Here we are using an image name to be deployed on Azure registry.
 To deploy on another registry, you can check the JIB maven plugin documentation [here](https://github.com/GoogleContainerTools/jib/tree/master/jib-maven-plugin)
