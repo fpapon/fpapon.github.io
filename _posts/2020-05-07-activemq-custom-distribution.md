@@ -487,6 +487,6 @@ You can access to the webconsole at http://172.17.0.2:8161/admin (user: admin / 
 
 ## Conclusion
 
-You now have the basic information to create a Karaf custom distribution and pull it to a Docker registry.
+You now have the basic information to create an ActiveMQ custom distribution and pull it to a Docker registry.
 
-The source of the example are available on Github [here](https://github.com/fpapon/blog-tutorial/tree/master/karaf-custom-distribution)
+The source of the example are available on Github [here](https://github.com/fpapon/blog-tutorial/tree/master/activemq-docker)
