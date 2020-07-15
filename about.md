@@ -5,7 +5,7 @@ layout: page
 show_sidebar: false
 ---
 
-I'm co-founder and CTO at [Yupiik](https://www.yupiik.com), be involved in some **Apache™** projects (PMC of **Apache Karaf**, **Apache Shiro**, **Apache Unomi**). 
+I'm co-founder and CTO at [Yupiik](https://www.yupiik.com), member at the **Apache Software Foundation™** and I'm involved in some **Apache™** projects (PMC of **Apache Karaf**, **Apache Shiro**, **Apache Unomi**). 
 
 It’s in 2015 that I started to have an interest about OSGi technology and after many PoC, I was thinking:
 
